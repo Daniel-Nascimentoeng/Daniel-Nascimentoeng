@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, eu sou Daniel Nascimento! 👋🏾
 
-<!--
-**Daniel-Nascimentoeng/Daniel-Nascimentoeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduando em Engenharia Civil pela Universidade Federal da Paraíba (UFPB), com forte interesse em programação aplicada à engenharia.  
+  Acredito que o uso de ferramentas computacionais e linguagens de programação amplia a capacidade de análise, automação e inovação em projetos de engenharia.
 
-Here are some ideas to get you started:
+- 💻 Atualmente desenvolvo projetos utilizando **Python**, com foco em aplicações técnicas e científicas.
+- 📚 Estudo **JavaScript**, com foco no **Google Earth Engine (GEE)**, aplicando geotecnologias na análise espacial e ambiental.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+ ##
+
+
+ <div> 
+  <a href="https://instagram.com/danielconceicao29" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:daniel.conceicao@academico.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-conceição-do-nascimento-3219512b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+ ##
