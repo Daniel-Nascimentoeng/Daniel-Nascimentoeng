@@ -4,13 +4,17 @@
   Acredito que o uso de ferramentas computacionais e linguagens de programação amplia a capacidade de análise, automação e inovação em projetos de engenharia.
 
 - 💻 Atualmente desenvolvo projetos utilizando **Python**, com foco em aplicações técnicas e científicas.
-- 📚 Estudo **JavaScript**, com foco no **Google Earth Engine (GEE)**, aplicando geotecnologias na análise espacial e ambiental.
+- 📚 Estudo **JavaScript**, com foco no **Google Earth Engine (GEE)**, aplicando geotecnologias na análise espacial.
+
+<p align="center">
+  <em>"A engenharia é a arte de modelar materiais que não entendemos bem, em formas que não podemos analisar com precisão, para resistir a forças que não podemos medir adequadamente." — A. R. Dykes</em>
+</p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Nascimentoeng&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Nascimentoeng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+
+
+>
 
 
 <div style="display: inline_block"><br>
